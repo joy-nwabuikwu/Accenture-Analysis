@@ -34,11 +34,6 @@ This repository presents the comprehensive analysis and visualizations crafted f
 - **Data Visualization:** Google Sheets, Charts 
 - **Presentation:** Microsoft PowerPoint
 
-## Further Resources:
-All other material used are here  
--[Google sheet]()
--[Slides]()
-
 ## Key Deliverables
 
 - Cleaned and processed datasets.
