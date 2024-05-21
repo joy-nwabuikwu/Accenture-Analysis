@@ -27,6 +27,8 @@ This repository presents the comprehensive analysis and visualizations crafted f
 
 - Prepared and rehearsed concise, engaging presentations for Social Buzz and internal stakeholders.
 - Incorporated feedback to refine presentations, ensuring clarity and impact.
+- [Presentation](https://drive.google.com/file/d/1VFu3HLPX4xC-xzmo2bOs-Gezchb0wK0C/view?usp=sharing)
+
 
 ## Tools and Technologies
 
