@@ -22,14 +22,11 @@ This repository presents the comprehensive analysis and visualizations crafted f
 - Selected appropriate visualizations to effectively communicate data insights.
 - Developed engaging PowerPoint presentations, highlighting key findings and actionable recommendations.
 
-![Social Buzz insight 1](https://github.com/joy-nwabuikwu/Accenture-Analysis/blob/main/Sheet%202.png)
-
 ### Presentation Delivery:
 
 - Prepared and rehearsed concise, engaging presentations for Social Buzz and internal stakeholders.
 - Incorporated feedback to refine presentations, ensuring clarity and impact.
 - [Presentation](https://drive.google.com/file/d/1VFu3HLPX4xC-xzmo2bOs-Gezchb0wK0C/view?usp=sharing)
-
 
 ## Tools and Technologies
 
